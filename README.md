@@ -1,7 +1,7 @@
 # Alejandro Rodas  
 **B.A. in Data Science, Emphasis in Industrial Analytics**  
 **University of California, Berkeley**  
-Berkeley, CA |  Data Science • Data Analytics • ML • Data Science
+Berkeley, CA |  Data Science • Data Analytics • ML • Data Engineering
 
 ---
 
@@ -10,11 +10,11 @@ This repository highlights my academic and professional experience across data s
 
 ---
 
-## 🔧 Skills & Technologies  
+## Skills & Technologies  
 
 ###  Programming Languages  
 - **Python** – Data analysis, modeling, pipelines, scripting  
-- **SQL** – - SQL – relational data querying, performance tuning, analytics functions, data transformation pipelines  
+- **SQL** – relational data querying, performance tuning, analytics functions, data transformation pipelines  
 - **Java** – Data Structures, object-oriented programming, algorithm design, data structure implementation  
 
 ---
@@ -78,13 +78,15 @@ This repository highlights my academic and professional experience across data s
 - **Data 102** – Causal inference, bandits, advanced inference, GLMs  
 - **Data 101** – Databases, SQL, MongoDB, OLAP, indexing  
 - **Data 144** – Machine learning, classification models  
-- **CS 61A/B** – Python/Java, data structures, recursion  
+- **CS 61A/B** – Python/Java, data structures, recursion
+
+- Worked or collaborated with Open Project @ Berkeley, Financial Aid Office.
 
 ---
 
 ## Feel free to browse some of my work or contact me via Linkedn or Email  
 📎 [LinkedIn](https://www.linkedin.com/in/alejandro-rodas-/)  
-📫 Email: alejandro.rodas.1944@gmail.edu  
+📫 Email: alejandro.rodas.1944@gmail.com  
 
-Note: some of the research can't be published here, specifically the ones performed by my team with election results and specially for HHS (U.S. Gov't) . 
+Note: some of the research can't be published here, specifically the ones performed by my team with election results and specially for HHS (U.S. Gov't). 
 Feel free to reach out in case you need more information!
