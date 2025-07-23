@@ -6,16 +6,14 @@ Berkeley, CA |  Data Science • Data Analytics • ML • Data Engineering
 ---
 
 ##  About  
-This repository highlights my academic and professional experience across data science, analytics, and engineering. My work spans statistical inference, machine learning, causal modeling, and large-scale data processing, with a strong foundation in programming, database systems, data analysis and ML.
+Welcome! This repository highlights my academic and professional experience across data science, analytics, and data engineering. My work spans statistical inference, machine learning, causal modeling, large-scale data processing and databases with a strong foundation in advanced statistical methods, programming, database systems, data analysis and ML.
+
+Some of my skills include: 
+Advanced SQL, Query Optimization, Data Modeling, Advanced Python, Scikit-learn, TensorFlow, PyTorch, Regression Analysis, A/B Testing, Statistical Inference, Bayesian Inference,NLP, GLMs, Optimization Modeling, AWS, GCP, OLAP, Databases,  PySpark, Snowflake, MongoDB (and PyMongo), ETL pipelines, NumPy, Matplotlib, Seaborn, GeoPandas, Sigma, Model Development (Random Forests, Neural Networks), Snowflake, Databricks, data wrangling, feature engineering, causal inference, EDA, pandas, NumPy, seaborn, matplotlib, SQL, Python, A/B testing, geopandas, Tableau, Java etc.
 
 ---
 
 ## Skills & Technologies  
-
-###  Programming Languages  
-- **Python** – Data analysis, modeling, pipelines, scripting  
-- **SQL** – relational data querying, performance tuning, analytics functions, data transformation pipelines  
-- **Java** – Data Structures, object-oriented programming, algorithm design, data structure implementation  
 
 ---
 
@@ -52,7 +50,6 @@ This repository highlights my academic and professional experience across data s
 - **GeoPandas** – spatial joins, geographic data wrangling, shapefile processing  
 
 
-
 ---
 
 ### Data Wrangling & Transformation  
@@ -71,22 +68,29 @@ This repository highlights my academic and professional experience across data s
 
 ##  Academic & Project Foundations  
 
-####  Core Courses (UC Berkeley)  
-- **Data 8** – Foundations of data science  
-- **Data 100** – Data pipelines, EDA, inference, regression  
-- **Data 140** – Probability, CLT, Bayesian methods, MLE  
-- **Data 102** – Causal inference, bandits, advanced inference, GLMs  
-- **Data 101** – Databases, SQL, MongoDB, OLAP, indexing  
-- **Data 144** – Machine learning, classification models  
-- **CS 61A/B** – Python/Java, data structures, recursion
+#### Core Courses (Berkeley, CDSS college)  
 
-- Worked or collaborated with Open Project @ Berkeley, Financial Aid Office.
+- **Data 8** – Foundations of data science: Python programming, exploratory data analysis, sampling, hypothesis testing, linear regression, classification, causality, privacy, and bootstrapping using real-world datasets.
+
+- **Data 100** – Data pipelines, EDA, inference, regression: scalable data wrangling with pandas and SQL, OLAP techniques, sampling strategies, statistical inference, model evaluation, linear/logistic regression, and clustering.
+
+- **Data 140** – Probability, CLT, Bayesian methods, MLE: rigorous probability theory, conditioning, expectation, stochastic processes, central limit theorem, maximum likelihood estimation, and Bayesian inference with Monte Carlo methods.
+
+- **Data 102** – Causal inference, bandits, advanced inference, GLMs: treatment effects, IPW, matching, Q-learning, Thompson sampling, reinforcement learning, Poisson and logistic GLMs, multilevel models, false discovery control, and differential privacy.
+
+- **Data 101** – Databases, SQL, MongoDB, OLAP, indexing: relational schema design, ER modeling, query optimization, B+ trees, bitmap indexes, aggregation, joins, NoSQL with MongoDB, data pipelines, and fault-tolerant ingestion systems.
+
+- **Data 144** – Machine learning, classification models: supervised learning, decision trees, random forests, support vector machines, regularization, model tuning, feature selection, ensemble methods, cross-validation, and neural network foundations.
+
+- **CS 61A/B** – Python/Java, data structures, recursion: functional programming, environment diagrams, OOP, linked lists, trees, graphs, sorting algorithms, dynamic programming, and complexity analysis.
+
+- Additionally, worked or collaborated with Open Project @ Berkeley, Financial Aid Office (Berkeley FAO) and Data Discovery Research Program. 
 
 ---
 
-## Feel free to browse some of my work or contact me via Linkedn or Email  
+## Feel free to browse some of my work through here or contact me via Linkedn or Email to see my work experience!
 📎 [LinkedIn](https://www.linkedin.com/in/alejandro-rodas-/)  
 📫 Email: alejandro.rodas.1944@gmail.com  
 
-Note: some of the research can't be published here, specifically the ones performed by my team with election results and specially for HHS (U.S. Gov't). 
+Note: some of the research can't be published here, specifically the ones performed by me and my team with election results and specially for HHS (U.S. Gov't). 
 Feel free to reach out in case you need more information!
