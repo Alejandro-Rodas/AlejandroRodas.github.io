@@ -89,8 +89,8 @@ Advanced SQL, Query Optimization, Data Modeling, Advanced Python, Scikit-learn, 
 ---
 
 ## Feel free to browse some of my work through here or contact me via Linkedn or Email to see my work experience!
-📎 [LinkedIn](https://www.linkedin.com/in/alejandro-rodas-/)  
+📎 LinkedIn: [LinkedIn](https://www.linkedin.com/in/alejandro-rodas-/)  
 📫 Email: alejandro.rodas.1944@gmail.com  
 
-Note: some of the research can't be published here, specifically the ones performed by me and my team with election results and specially for HHS (U.S. Gov't). 
+Note: some of the research and intership work can't be published here due to NDA restrictions. Specifically the ones performed by me and my team with election results and for HHS (U.S. Gov't). 
 Feel free to reach out in case you need more information!
