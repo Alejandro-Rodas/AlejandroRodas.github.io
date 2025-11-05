@@ -18,3 +18,4 @@ ul{padding-left:18px;margin:6px 0}
 .footer{color:var(--muted);border-top:1px solid var(--border);margin-top:10px;padding-top:18px}
 @media (max-width:760px){ .grid{grid-template-columns:1fr} .two-col{columns:1} h1{font-size:32px} }
 a{color:#b3e6ff}
+@import "{{ site.theme }}";
