@@ -1,35 +1,99 @@
----
-layout: single
-title: "Alejandro Rodas"
-author_profile: true
----
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Alejandro Rodas</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header class="container">
+    <h1>Alejandro Rodas</h1>
+    <p class="tagline">B.A. in Data Science, Emphasis in Industrial Analytics — UC Berkeley<br>
+      Berkeley, CA · Data Science • Data Analytics • ML • Data Engineering</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#courses">Courses</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
 
-<section>
-  <h2>About Me</h2>
-  <p>I'm Alejandro, a data scientist and engineer focused on analytics, databases, and machine learning. I graduated with a B.A. in Data Science, Emphasis in Industrial Analytics, from UC Berkeley.</p>
-</section>
+  <main class="container">
+    <section id="about" class="card">
+      <h2>About</h2>
+      <p>Welcome! This portfolio highlights my academic and professional experience across data science, analytics, and data engineering. My work spans statistical inference, machine learning, causal modeling, large-scale data processing and databases with a strong foundation in advanced statistical methods, programming, database systems, data analysis and ML.</p>
+      <p><strong>Some of my skills include:</strong> Advanced SQL, Query Optimization, Data Modeling, Advanced Python, Scikit-learn, TensorFlow, PyTorch, Regression Analysis, A/B Testing, Statistical Inference, Bayesian Inference, NLP, GLMs, Optimization Modeling, AWS, GCP, OLAP, Databases, PySpark, Snowflake, MongoDB (PyMongo), ETL pipelines, NumPy, Matplotlib, Seaborn, GeoPandas, Sigma, Model Development (Random Forests, Neural Networks), Databricks, feature engineering, causal inference, EDA, Tableau, Java.</p>
+    </section>
 
-<section>
-  <h2>Skills</h2>
-  <ul>
-    <li><strong>Languages:</strong> Python, SQL, Java</li>
-    <li><strong>Machine Learning:</strong> Scikit-learn, TensorFlow, PyTorch</li>
-    <li><strong>Databases:</strong> PostgreSQL, MySQL, MongoDB, Snowflake, BigQuery</li>
-    <li><strong>Data Engineering:</strong> ETL pipelines, PySpark, Airflow</li>
-    <li><strong>Visualization:</strong> Tableau, Matplotlib, Seaborn</li>
-  </ul>
-</section>
+    <section id="skills" class="grid">
+      <article class="card">
+        <h3>Databases & Data Engineering</h3>
+        <ul>
+          <li>PostgreSQL, MySQL — schema design, indexing, tuning</li>
+          <li>MongoDB — PyMongo, aggregation, modeling</li>
+          <li>ETL — Python/SQL/APIs; Snowflake, BigQuery</li>
+          <li>Data modeling — OLAP, star/snowflake</li>
+          <li>Spark, Hadoop (basics)</li>
+        </ul>
+      </article>
 
-<section>
-  <h2>Education</h2>
-  <p><strong>University of California, Berkeley</strong><br>
-  B.A. in Data Science, Emphasis in Industrial Analytics</p>
-</section>
+      <article class="card">
+        <h3>Statistical Inference & Modeling</h3>
+        <ul>
+          <li>MLE; Bayesian (priors/posteriors, Gibbs, rejection)</li>
+          <li>Hypothesis testing; multiple testing</li>
+          <li>Bootstrap; GLMs (logistic, Poisson); nonparametrics</li>
+          <li>MGFs, covariance/correlation, joint/conditional</li>
+        </ul>
+      </article>
 
-<section>
-  <h2>Contact</h2>
-  <ul>
-    <li><a href="https://www.linkedin.com/in/alejandro-rodas-/">LinkedIn</a></li>
-    <li><a href="mailto:alejandro.rodas.1944@gmail.com">alejandro.rodas.1944@gmail.com</a></li>
-  </ul>
-</section>
+      <article class="card">
+        <h3>ML & Causal Inference</h3>
+        <ul>
+          <li>scikit-learn, Statsmodels, SciPy</li>
+          <li>RF, Logistic Regression, MLPs; CV, ROC-AUC, F1</li>
+          <li>Feature engineering; L1/L2 regularization</li>
+          <li>PSM, IPW, DAGs; Bandits (UCB, Thompson)</li>
+          <li>NLP; GeoPandas</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <h3>Viz & Dashboards</h3>
+        <ul>
+          <li>Matplotlib, Seaborn (EDA)</li>
+          <li>Tableau, Looker Studio (reports)</li>
+          <li>Dashboards — metrics, filters, live updates</li>
+        </ul>
+      </article>
+    </section>
+
+    <section id="courses" class="card">
+      <h2>Academic & Project Foundations</h2>
+      <ul class="two-col">
+        <li><strong>Data 8</strong> — EDA, regression, causality</li>
+        <li><strong>Data 100</strong> — pipelines, inference, regression</li>
+        <li><strong>Data 140</strong> — probability, CLT, Bayesian, MLE</li>
+        <li><strong>Data 102</strong> — causal inference, GLMs, bandits</li>
+        <li><strong>Data 101</strong> — databases, SQL, MongoDB, indexing</li>
+        <li><strong>Data 144</strong> — ML, model tuning</li>
+        <li><strong>CS 61A/B</strong> — data structures, recursion, OOP</li>
+      </ul>
+      <p>Collaborations: Open Project @ Berkeley, Financial Aid Office (FAO), Data Discovery Research Program.</p>
+    </section>
+
+    <section id="contact" class="card">
+      <h2>Contact</h2>
+      <p>📎 <a href="https://www.linkedin.com/in/alejandro-rodas-/">LinkedIn</a><br>
+         📫 <a href="mailto:alejandro.rodas.1944@gmail.com">alejandro.rodas.1944@gmail.com</a></p>
+      <p class="note">Note: some research and internship work can’t be published here due to NDAs (election results, HHS). Reach out for details.</p>
+    </section>
+  </main>
+
+  <footer class="container footer">© <span id="y"></span> Alejandro Rodas</footer>
+  <script>document.getElementById('y').textContent=new Date().getFullYear()</script>
+</body>
+</html>
