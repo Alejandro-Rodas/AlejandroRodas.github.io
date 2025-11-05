@@ -1,7 +1,62 @@
 ---
-layout: default
-title: Home
+layout: single
+title: "Alejandro Rodas"
+author_profile: true
 ---
-# Welcome
 
-I’m Alejandro, a data scientist and engineer interested in analytics, databases, and machine learning.
+## Education  
+**B.A. in Data Science**, *Emphasis in Industrial Analytics*  
+**University of California, Berkeley**  
+Berkeley, CA | Data Science • Data Analytics • Machine Learning • Data Engineering  
+
+---
+
+## About  
+Welcome! This portfolio highlights my academic and professional experience across data science, analytics, and data engineering. My work spans statistical inference, machine learning, causal modeling, large-scale data processing, and databases.
+
+---
+
+## Skills & Technologies
+
+### Databases & Data Engineering
+**PostgreSQL, MySQL** — Schema design, indexing, SQL tuning  
+**MongoDB** — Aggregation pipelines, document modeling  
+**ETL Pipelines** — Automated data extraction and transformation (Python, SQL, APIs)  
+**Snowflake, BigQuery** — Cloud data warehousing  
+**Data Modeling** — OLAP, star/snowflake schemas  
+**Spark, Hadoop** — Distributed systems basics  
+
+### Statistical Inference & Modeling
+**MLE, Bayesian Inference** — Parametric modeling, priors/posteriors, Gibbs sampling  
+**Hypothesis Testing** — A/B testing, p-values, corrections  
+**GLMs** — Logistic regression, Poisson, nonparametric modeling  
+
+### Machine Learning & Causal Inference
+**Scikit-learn, Statsmodels, SciPy** — Regression, classification, model evaluation  
+**Random Forests, Logistic Regression, MLPs** — Supervised learning  
+**Propensity Score Matching, IPW, DAGs, Bandits** — Causal inference  
+
+### Visualization & Dashboards
+**Matplotlib, Seaborn** — EDA and visual storytelling  
+**Tableau, Google Data Studio** — Report generation for stakeholders  
+
+---
+
+## Academic Foundations (UC Berkeley, CDSS)
+**Data 8** – Intro to data science, EDA, regression, causality  
+**Data 100** – Data pipelines, inference, regression  
+**Data 140** – Probability, Bayesian methods, MLE  
+**Data 102** – Causal inference, GLMs, bandits  
+**Data 101** – Databases, SQL, NoSQL, indexing  
+**Data 144** – Machine learning, model tuning  
+**CS 61A/B** – Data structures, recursion, OOP  
+
+Worked with **Open Project @ Berkeley**, **Financial Aid Office (FAO)**, and **Data Discovery Research Program**.  
+
+---
+
+## Contact  
+📎 [LinkedIn](https://www.linkedin.com/in/alejandro-rodas-/)  
+📫 **alejandro.rodas.1944@gmail.com**
+
+> *Some research and internship work is under NDA, specifically for election results and HHS projects. Feel free to reach out for more information.*

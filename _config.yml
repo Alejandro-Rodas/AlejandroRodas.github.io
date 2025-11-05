@@ -1,0 +1,33 @@
+title: "Alejandro Rodas"
+description: "Data Scientist & Engineer | Analytics • Databases • Machine Learning"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+plugins:
+  - jekyll-include-cache
+
+url: "https://alejandro-rodas.github.io"
+baseurl: ""
+
+author:
+  name: "Alejandro Rodas"
+  avatar: "/assets/images/profile.jpg" # optional, add an image later
+  bio: "B.A. in Data Science, Emphasis in Industrial Analytics, UC Berkeley."
+  location: "Berkeley, CA"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/alejandro-rodas-/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/Alejandro-Rodas"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:alejandro.rodas.1944@gmail.com"
+
+# Theme defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
