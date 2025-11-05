@@ -1,0 +1,7 @@
+- name: Streaming Analysis
+  link: https://github.com/…/Streaming_Analysis
+  blurb: Built scalable ETL + ML to predict churn; AUC 0.86.
+- name: A/B Test Platform
+  link: https://github.com/…/ab-test
+  blurb: Designed experiment pipeline; cut decision time 40%.
+  

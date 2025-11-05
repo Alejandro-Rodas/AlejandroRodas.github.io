@@ -1,0 +1,6 @@
+title: Alejandro Rodas
+description: Data Science · Analytics · ML · Data Engineering
+remote_theme: pages-themes/primer@v0.6.0
+plugins: [jekyll-remote-theme, jekyll-seo-tag, jekyll-sitemap]
+author: Alejandro Rodas
+github: [metadata]
