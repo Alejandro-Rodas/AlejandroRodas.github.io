@@ -1,7 +1,7 @@
 title: "Alejandro Rodas"
 description: "Data Scientist & Engineer | Analytics • Databases • Machine Learning"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-theme: jekyll-theme-chirpy
+
 plugins:
   - jekyll-include-cache
 
