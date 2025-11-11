@@ -6,6 +6,11 @@ Berkeley, CA |  Data Science • Data Analytics • ML • Data Engineering
 ---
 
 ##  About  
+
+(Please note that the website has my work more properly structured, you can read about it here: 
+https://alejandro-rodas.github.io/
+but feel free to also read here!)
+
 Welcome! This repository highlights my academic and professional experience across data science, analytics, and data engineering. My work spans statistical inference, machine learning, causal modeling, large-scale data processing and databases with a strong foundation in advanced statistical methods, programming, database systems, data analysis and ML.
 
 Some of my skills include: 
@@ -90,6 +95,8 @@ Advanced SQL, Query Optimization, Data Modeling, Advanced Python, Scikit-learn, 
 
 ## Feel free to browse some of my work through here or contact me via Linkedn or Email to see my work experience!
 📎 LinkedIn: [LinkedIn](https://www.linkedin.com/in/alejandro-rodas-/)  
+📎 Website: [Website](https://alejandro-rodas.github.io/)  
+
 📫 Email: alejandro.rodas.1944@gmail.com  
 
 Note: some of the research and intership work can't be published here due to NDA restrictions. Specifically the ones performed by me and my team with election results and for HHS (U.S. Gov't). 
