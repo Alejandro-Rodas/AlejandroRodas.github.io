@@ -10,7 +10,8 @@ The first ipynb script is called solution_AIAgent and the second ipynb script is
 
 ## Design Choices: 
 
-For both, an ipynb was chosen for easier reproducibility in other machines/enviroments, easier understanding of the code's inner workings through markdown comments and for easier demonstration when presenting it.
+For both, an ipynb was chosen for easier reproducibility in other machines/enviroments, easier understanding of the code's inner workings through markdown comments and the 
+outputs of different parts of the orchestration and for easier demonstration when presenting it.
 Though can  easily be translated to a py script if desired. 
 
 ### What you'll find in AI_workflow_solution:
