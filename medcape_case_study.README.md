@@ -61,11 +61,11 @@ To summarize (as you can see the full context in the Design Choices section) the
 
 AI_workflow_solution:
 
-A Controller (LLM) receives a natural-language query and routes it via router/should_continue to either the Retriever Agent (retriever_tool) for relevant KB context, the Analytics Agent (ROI/CPC/CPA... etc tools) for deterministic computations, or both. Then, the Controller synthesizes the retrieved context with computed metrics into a structured recommendation.
+A Controller (LLM) receives a natural language query and routes it via router/should_continue to either the Retriever Agent (retriever_tool) for relevant KB context, the Analytics Agent (ROI/CPC/CPA... etc tools) for deterministic computations, or both. Then, the Controller synthesizes the retrieved context with computed metrics into a structured recommendation.
 
 production_solution_AIAgent: 
 
-The same routing + Retriever/Analytics Agents, extended with optional ML + Visualization Agents for deeper analysis and interpretability, plus a reflection_node that reviews tool outputs and the draft response for consistency before returning the final recommendation. Retrieval this time, is made through a production-friendly via BigQuery-backed data access and ChromaDB vector retrieval for persistent, scalable semantic search.
+The same routing + Retriever/Analytics Agents, extended with optional ML + Visualization Agents for deeper analysis and interpretability, plus a reflection_node that reviews tool outputs and the draft response for consistency before returning the final recommendation. Retrieval this time, is made through a production friendly manner, via BigQuery backed data access and ChromaDB vector retrieval for persistent, scalable semantic search.
 
 ## How to make this even more scalable/limitations: 
 Some agents could be concurrent. For instance: parallelize retrieval + analytics (and ML/visualization) when both are needed, this cut latency as workload grows. Also, more agents could be used/created + having more robust tools that could work with unstructured data. Though these tools and this specific level of robustness was chosen to demostrate how Agents would interact with this knowledge base and to not compromise latency.
