@@ -1,14 +1,17 @@
 # Medscape Take-Home Assignment: Agentic AI Workflow Challenge Alejandro Rodas
 
 ## Introduction 
-In this project, you'll find two solutions to the challenge. Two different scripts are presented so it can provide a more 'lively' answer the question: 'how is the solution scalable'
-and also to provide a more robust code to handle production level operations. 
+In this project, you'll find two solutions to the challenge. Two different scripts are presented so it can provide a more 'lively' answer the question: 'How is the solution scalable?'
+And also to provide a more robust code to handle production level operations. 
 
 ## Files
 
-The first py script is called solution_AIAgent and the second py script is called production_solution_AIAgent.
+The first ipynb script is called solution_AIAgent and the second ipynb script is called production_solution_AIAgent.
 
 ## Design Choices: 
+
+For both, an ipynb was chosen for easier reproducibility in other machines/enviroments, easier understanding of the code's inner workings through markdown comments and for easier demonstration when presenting it.
+Though can  easily be translated to a py script if desired. 
 
 ### What you'll find in AI_workflow_solution:
 
