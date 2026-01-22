@@ -14,6 +14,8 @@ For both, an ipynb was chosen for easier reproducibility in other machines/envir
 outputs of different parts of the orchestration and for easier demonstration when presenting it.
 Though can  easily be translated to a py script if desired. 
 
+Also, when calling the graph itself some print statements were added so the user can see the inner working of the graph and the 'thought process'.
+
 ### What you'll find in AI_workflow_solution:
 
 -2 Agents (analytics_agent and retriever_agent)
