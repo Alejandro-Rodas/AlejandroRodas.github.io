@@ -76,8 +76,8 @@ df["_text"] = df.astype(str).agg(" | ".join, axis=1)
 pages = DataFrameLoader(df, page_content_column="_text").load()
 
 
-os.environ["CHROMA_CLOUD_API_KEY"] = "ck-BnpGsmd3uMjaerHcx3svNT2pBo5GTuD9sizQg8xMSKqH"
-os.environ["CHROMA_TENANT"] = "b929d836-ce14-4425-ba00-69db120fbd3d"
+os.environ["CHROMA_CLOUD_API_KEY"] = "ck-BnpGssd3uMjaerFcx3svNT2pBo5GIuD9sizQg8xMSKqH" ##Fake key
+os.environ["CHROMA_TENANT"] = "b929sssd836-ce14-4425-ba00-69aadb120321fbd3d"  ##Fake key
 os.environ["CHROMA_DATABASE"] = "MedScapeDB"
 
 
